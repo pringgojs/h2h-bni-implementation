@@ -5,8 +5,8 @@ include_once __DIR__ . "/Helper.php";
 // initialize
 $client_id = '01556';
 $prefix =  '988';
-// $url = 'http://43.252.156.50/ecollection/update';
-$url = 'http://localhost:8000/update';
+$url = 'http://siakad.poltradabali.ac.id:8081/update';
+// $url = 'http://localhost:8000/update';
 
 // data
 $data = array(
